@@ -1,0 +1,213 @@
+[
+    {
+        "id": 1,
+        "name": "Cheese Omelette",
+        "ingredients": [
+            "Eggs",
+            "Cheese",
+            "Butter"
+        ],
+        "category": "Breakfast",
+        "cook_time": 10
+    },
+    {
+        "id": 2,
+        "name": "Tomato Omelette",
+        "ingredients": [
+            "Eggs",
+            "Tomatoes",
+            "Butter"
+        ],
+        "category": "Breakfast",
+        "cook_time": 12
+    },
+    {
+        "id": 3,
+        "name": "Grilled Cheese Sandwich",
+        "ingredients": [
+            "Bread",
+            "Cheese",
+            "Butter"
+        ],
+        "category": "Snack",
+        "cook_time": 8
+    },
+    {
+        "id": 4,
+        "name": "Banana Smoothie",
+        "ingredients": [
+            "Milk",
+            "Bananas",
+            "Yogurt"
+        ],
+        "category": "Drink",
+        "cook_time": 5
+    },
+    {
+        "id": 5,
+        "name": "Tomato Soup",
+        "ingredients": [
+            "Tomatoes",
+            "Butter",
+            "Milk"
+        ],
+        "category": "Lunch",
+        "cook_time": 20
+    },
+    {
+        "id": 6,
+        "name": "Cheese Crackers",
+        "ingredients": [
+            "Cheese",
+            "Crackers"
+        ],
+        "category": "Snack",
+        "cook_time": 5
+    },
+    {
+        "id": 7,
+        "name": "Tuna Sandwich",
+        "ingredients": [
+            "Bread",
+            "Canned Tuna",
+            "Butter"
+        ],
+        "category": "Lunch",
+        "cook_time": 10
+    },
+    {
+        "id": 8,
+        "name": "Chicken Sandwich",
+        "ingredients": [
+            "Bread",
+            "Chicken Breast",
+            "Butter"
+        ],
+        "category": "Lunch",
+        "cook_time": 15
+    },
+    {
+        "id": 9,
+        "name": "Fruit Yogurt Bowl",
+        "ingredients": [
+            "Yogurt",
+            "Bananas"
+        ],
+        "category": "Breakfast",
+        "cook_time": 5
+    },
+    {
+        "id": 10,
+        "name": "Creamy Scrambled Eggs",
+        "ingredients": [
+            "Eggs",
+            "Milk",
+            "Butter"
+        ],
+        "category": "Breakfast",
+        "cook_time": 10
+    },
+    {
+        "id": 11,
+        "name": "Tomato Cheese Toast",
+        "ingredients": [
+            "Bread",
+            "Cheese",
+            "Tomatoes"
+        ],
+        "category": "Snack",
+        "cook_time": 10
+    },
+    {
+        "id": 12,
+        "name": "Chicken Salad",
+        "ingredients": [
+            "Chicken Breast",
+            "Tomatoes"
+        ],
+        "category": "Dinner",
+        "cook_time": 20
+    },
+    {
+        "id": 13,
+        "name": "Butter Toast",
+        "ingredients": [
+            "Bread",
+            "Butter"
+        ],
+        "category": "Breakfast",
+        "cook_time": 3
+    },
+    {
+        "id": 14,
+        "name": "Cheese Pasta",
+        "ingredients": [
+            "Cheese",
+            "Butter",
+            "Milk"
+        ],
+        "category": "Dinner",
+        "cook_time": 25
+    },
+    {
+        "id": 15,
+        "name": "Banana Milkshake",
+        "ingredients": [
+            "Milk",
+            "Bananas"
+        ],
+        "category": "Drink",
+        "cook_time": 5
+    },
+    {
+        "id": 16,
+        "name": "Tomato Tuna Salad",
+        "ingredients": [
+            "Tomatoes",
+            "Canned Tuna"
+        ],
+        "category": "Lunch",
+        "cook_time": 10
+    },
+    {
+        "id": 17,
+        "name": "Yogurt Parfait",
+        "ingredients": [
+            "Yogurt",
+            "Bananas"
+        ],
+        "category": "Dessert",
+        "cook_time": 5
+    },
+    {
+        "id": 18,
+        "name": "Chicken Cheese Melt",
+        "ingredients": [
+            "Chicken Breast",
+            "Cheese"
+        ],
+        "category": "Dinner",
+        "cook_time": 20
+    },
+    {
+        "id": 19,
+        "name": "Egg Sandwich",
+        "ingredients": [
+            "Eggs",
+            "Bread",
+            "Butter"
+        ],
+        "category": "Breakfast",
+        "cook_time": 10
+    },
+    {
+        "id": 20,
+        "name": "Tomato Cheese Salad",
+        "ingredients": [
+            "Tomatoes",
+            "Cheese"
+        ],
+        "category": "Lunch",
+        "cook_time": 5
+    }
+]

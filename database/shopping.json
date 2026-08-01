@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Bananas",
+        "quantity": 1,
+        "checked": false,
+        "source": "recipe"
+    },
+    {
+        "id": 2,
+        "name": "Butter",
+        "quantity": 2,
+        "checked": false,
+        "source": "recipe"
+    }
+]

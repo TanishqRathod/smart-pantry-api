@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "name": "Milk",
+        "brand": "Amul",
+        "category": "Dairy",
+        "keywords": [
+            "milk",
+            "amul",
+            "gold"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Butter",
+        "brand": "Amul",
+        "category": "Dairy",
+        "keywords": [
+            "butter",
+            "amul"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Eggs",
+        "brand": "Unknown",
+        "category": "Dairy",
+        "keywords": [
+            "egg",
+            "eggs",
+            "large"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Bread",
+        "brand": "Unknown",
+        "category": "Bakery",
+        "keywords": [
+            "bread",
+            "brown",
+            "white"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Yogurt",
+        "brand": "Unknown",
+        "category": "Dairy",
+        "keywords": [
+            "yogurt",
+            "yoghurt"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Cheese",
+        "brand": "Unknown",
+        "category": "Dairy",
+        "keywords": [
+            "cheese"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Tomatoes",
+        "brand": "Unknown",
+        "category": "Vegetable",
+        "keywords": [
+            "tomato",
+            "tomatoes",
+            "cherry"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Bananas",
+        "brand": "Unknown",
+        "category": "Fruit",
+        "keywords": [
+            "banana",
+            "bananas"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Chocolate Cookies",
+        "brand": "Unknown",
+        "category": "Snacks",
+        "keywords": [
+            "chocolate",
+            "cookies",
+            "cookie"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Canned Tuna",
+        "brand": "Unknown",
+        "category": "Seafood",
+        "keywords": [
+            "tuna",
+            "canned"
+        ]
+    }
+]
