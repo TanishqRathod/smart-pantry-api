@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+easyocr
+opencv-python-headless
+numpy
+Pillow
+python-dotenv
+python-multipart
+rapidfuzz
+google-genai
+torch
+torchvision
